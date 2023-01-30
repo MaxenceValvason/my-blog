@@ -11,11 +11,20 @@ function App() {
       </header>
       <nav>
         <div className="col1">
-          <a href="#">Link</a>
-          <a href="#"> Link</a>
-          <a href="#">Link</a>
+          <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHH8LFvXCAhgItBbUHzq9SY8ZUObLrpZxtf90bU3lbdhkPRUhrsXpdiHafQrfjA4LbYsg&usqp=CAU">
+            Link
+          </a>
+          <a href="https://www.observatoiredeparis.psl.eu/IMG/jpg/andromede1.jpg">
+            {" "}
+            Link
+          </a>
+          <a href="https://ottawa-rasc.ca/wp-content/uploads/2022/02/Andromeda.jpg">
+            Link
+          </a>
         </div>
-        <a href="#">Link</a>
+        <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_gEblsoF_JgBvNl8RwutF58nj94759QqiWl-4sRWF5e_X7_n_cM0QrSbc9gHh51kBb0&usqp=CAU">
+          Link
+        </a>
       </nav>
       <section>
         <article>
